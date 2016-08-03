@@ -3,10 +3,14 @@
   float:left;
   background-color: black;
   color: white;
-  margin-left: 5px;
+  margin: 5px;
+  border: 3px solid red;
+  padding: 6px;
+
 }
 
 img {
   width: 500px;
   float: left;
+  padding: 6px;
 }
