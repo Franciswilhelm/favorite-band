@@ -1,0 +1,12 @@
+.side {
+  width: 200px;
+  float:left;
+  background-color: black;
+  color: white;
+  margin-left: 5px;
+}
+
+img {
+  width: 500px;
+  float: left;
+}
